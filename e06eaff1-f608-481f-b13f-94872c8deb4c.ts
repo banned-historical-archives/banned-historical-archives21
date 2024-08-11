@@ -11,7 +11,7 @@ export default {
   "parser_option": {
     "articles": []
   },
-  "parser_id": "result-json",
+  "parser_id": "result-json-v2",
   "path": "e06eaff1-f608-481f-b13f-94872c8deb4c.json",
   "resource_type": "book",
   "version": 2
